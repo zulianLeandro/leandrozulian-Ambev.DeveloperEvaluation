@@ -102,9 +102,4 @@ O projeto inclui testes unitários, de integração e funcionais na pasta tests/
 
 Executar todos os testes:
 
-dotnet test
-
-Observações Adicionais
-A implementação da publicação de eventos (SaleCreated, SaleModified, etc.), que era um diferencial opcional, foi estruturada na camada de Application e pode ser facilmente integrada com um serviço de mensageria como o Rebus, que é mencionado na documentação de frameworks.md.
-
-Este projeto demonstra proficiência em C#, arquitetura de software, padrões de design, testes automatizados e uso de ferramentas modernas como Docker e Entity Framework Core.
+dotnet test 
